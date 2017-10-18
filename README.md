@@ -7,8 +7,8 @@ E.A.Smirnov, I.I. Shevchenko. Massive identification of asteroids in three-body 
 
 ## The explanation of the tables:
 
-* librations: contains the asteroids in three-body MMRs;
-* twobody\_librations: contains the asteroids in two-body MMRs;
+* three\_body\_librations: contains the asteroids in three-body MMRs;
+* two\_body\_librations: contains the asteroids in two-body MMRs;
 * asteroids: contains the AstDyS catalog copy;
 * proper\_elements: contains the AstDyS proper elements catalog copy;
 * synthetic\_proper\_elements: contains the AstDyS synthetic proper elements catalog copy;
